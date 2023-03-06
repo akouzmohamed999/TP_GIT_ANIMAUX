@@ -5,6 +5,9 @@ body {
   width: auto;
   margin: 0 auto;
 }
+#info {
+	height: 200px;
+}
 
 #content div h1.header {
   text-align: center;
@@ -947,6 +950,27 @@ a#twitter {
   width: auto;
   margin: 0 0 15px;
 }
+
+.eagle-type-img img{
+
+
+
+	
+	height:200px;
+	width: 180px;
+}
+#eagle-type {
+
+
+	
+	
+	display: flex;
+	flex-direction: column;
+	margin-left: 400px;
+	margin-bottom: 50px;
+
+}
+
 
 /*-------------------------	Footer --------------------------*/
 #footer {
