@@ -14,6 +14,10 @@ body {
 p a, h4 a {
 	color: #875316;
 }
+#panda{
+	float: left;size: 200px;
+          margin: 5px;
+}
 /*-------------------------	Header --------------------------*/
 #header {
 	font-family: arial;
