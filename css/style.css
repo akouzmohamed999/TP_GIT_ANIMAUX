@@ -919,6 +919,12 @@ a#twitter {
 #content div#info ul li p {
 	text-align: justify;
 }
+#content img{
+  height: 600px;
+  width: 500px;
+  margin-left: 20px;
+
+}
 #content div#live h1 {
 	padding: 20px 0 5px;
 }
@@ -931,6 +937,7 @@ a#twitter {
 	width: auto;
 	margin: 0 0 15px;
 }
+
 /*-------------------------	Footer --------------------------*/
 #footer {
 	background: url(../images/bg-footer.gif) repeat-x center top;
