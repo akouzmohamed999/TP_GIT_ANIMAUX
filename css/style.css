@@ -27,6 +27,10 @@ p a,
 h4 a {
   color: #875316;
 }
+#panda{
+	float: left;size: 200px;
+          margin: 5px;
+}
 /*-------------------------	Header --------------------------*/
 #header {
   font-family: arial;
@@ -43,11 +47,11 @@ h4 a {
   width: 347px;
 }
 #header a#logo img {
-  border: 0;
-  position: relative;
-  z-index: 1;
-  top: 0;
-  left: 1px;
+	border:2;
+	position: relative;
+	z-index: 1;
+	top: 0;
+	left: 1px;
 }
 #header ul {
   padding: 10px 0;
