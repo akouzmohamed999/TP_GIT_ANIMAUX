@@ -30,7 +30,7 @@ p a, h4 a {
 	width: 347px;
 }
 #header a#logo img {
-	border:0;
+	border:2;
 	position: relative;
 	z-index: 1;
 	top: 0;
